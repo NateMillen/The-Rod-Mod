@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\natem.DESKTOP-GN42898\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FishingMod\\FishingMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\natem.DESKTOP-GN42898\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FishingMod\\FishingMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\natem.DESKTOP-GN42898\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FishingMod\\FishingMod.csproj",
+        "projectName": "FishingMod",
+        "projectPath": "C:\\Users\\natem.DESKTOP-GN42898\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FishingMod\\FishingMod.csproj",
+        "packagesPath": "C:\\Users\\natem.DESKTOP-GN42898\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natem.DESKTOP-GN42898\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FishingMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\natem.DESKTOP-GN42898\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
